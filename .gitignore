@@ -64,7 +64,7 @@ dkms.conf
 1º_ passo_sequencia_basica/ex6_antecessor_sucessor/ex6.dev
 1º_ passo_sequencia_basica/ex6_antecessor_sucessor/ex6.layout
 1º_ passo_sequencia_basica/ex6_antecessor_sucessor/Makefile.win
-1º_ passo_sequencia_basica/ex7_dobro_terça_parte/main.c
+#1º_ passo_sequencia_basica/ex7_dobro_terça_parte/main.c
 1º_ passo_sequencia_basica/ex7_dobro_terça_parte/Makefile.win
 1º_ passo_sequencia_basica/ex7_dobro_terça_parte/Projeto1.dev
 1º_ passo_sequencia_basica/ex7_dobro_terça_parte/Projeto1.layout
